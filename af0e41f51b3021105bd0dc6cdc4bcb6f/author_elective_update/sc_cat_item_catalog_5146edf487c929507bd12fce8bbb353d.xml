@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Raise a travel request">c39cac0e1b3c21105bd0dc6cdc4bcb8a</sc_cat_item>
+        <sc_catalog display_value="Bayer">002a1c264f374300a7b6a4eab110c723</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>EGMCF</sys_created_by>
+        <sys_created_on>2023-02-13 20:30:26</sys_created_on>
+        <sys_id>5146edf487c929507bd12fce8bbb353d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bayer.Raise a travel request</sys_name>
+        <sys_package display_value="Travel Request" source="x_320309_travel_0">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel Request">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_5146edf487c929507bd12fce8bbb353d</sys_update_name>
+        <sys_updated_by>EGMCF</sys_updated_by>
+        <sys_updated_on>2023-02-13 20:30:26</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Travel Request">af0e41f51b3021105bd0dc6cdc4bcb6f</application>
+        <file_path/>
+        <instance_id>2f96ae34db9a159007072f17d496192e</instance_id>
+        <instance_name>bayercddev</instance_name>
+        <name>sc_cat_item_catalog_5146edf487c929507bd12fce8bbb353d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Raise a travel request">c39cac0e1b3c21105bd0dc6cdc4bcb8a</sc_cat_item><sc_catalog display_value="Bayer">002a1c264f374300a7b6a4eab110c723</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>EGMCF</sys_created_by><sys_created_on>2023-02-13 20:30:26</sys_created_on><sys_id>5146edf487c929507bd12fce8bbb353d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Bayer.Raise a travel request</sys_name><sys_package display_value="Travel Request" source="x_320309_travel_0">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_package><sys_policy/><sys_scope display_value="Travel Request">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_scope><sys_update_name>sc_cat_item_catalog_5146edf487c929507bd12fce8bbb353d</sys_update_name><sys_updated_by>EGMCF</sys_updated_by><sys_updated_on>2023-02-13 20:30:26</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1134294411</payload_hash>
+        <record_name>Bayer.Raise a travel request</record_name>
+        <reverted_from/>
+        <source>7481693087c929507bd12fce8bbb3551</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>EGMCF</sys_created_by>
+        <sys_created_on>2023-02-13 20:30:26</sys_created_on>
+        <sys_id>d546edf487c929507bd12fce8bbb3540</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1864c78bce80000001</sys_recorded_at>
+        <sys_updated_by>EGMCF</sys_updated_by>
+        <sys_updated_on>2023-02-13 20:30:26</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>1d46edf4a8c929501f30bde62042e13f</update_guid>
+        <update_guid_history>1d46edf4a8c929501f30bde62042e13f:1134294411</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Bayer.Raise a travel request">7746213887c929507bd12fce8bbb3504</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>EGMCF</sys_created_by>
+        <sys_created_on>2023-02-13 20:30:36</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>8f1f5a33bc924193ae9d42c6a382d1b1</sys_id>
+        <sys_metadata>5146edf487c929507bd12fce8bbb353d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bayer.Raise a travel request</sys_name>
+        <sys_package display_value="Travel Request" source="x_320309_travel_0">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_package>
+        <sys_parent display_value="Raise a travel request">c39cac0e1b3c21105bd0dc6cdc4bcb8a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Travel Request">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_scope>
+        <sys_scope_delete display_value="">7b552e7c4a86445aaa25d7c76a3f6181</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_5146edf487c929507bd12fce8bbb353d</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_5146edf487c929507bd12fce8bbb353d">d546edf487c929507bd12fce8bbb3540</sys_update_version>
+        <sys_updated_by>EGMCF</sys_updated_by>
+        <sys_updated_on>2023-02-13 20:30:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -29,13 +29,15 @@
         <sys_created_by>adheshwar.s</sys_created_by>
         <sys_created_on>2023-02-04 11:02:52</sys_created_on>
         <sys_id>af0e41f51b3021105bd0dc6cdc4bcb6f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>GIYYH</sys_updated_by>
+        <sys_updated_on>2023-04-24 15:08:41</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
     </sys_app>
-    <sys_translated_text action="delete_multiple" query="documentkey=af0e41f51b3021105bd0dc6cdc4bcb6f"/>
 </record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Raise a travel request">c39cac0e1b3c21105bd0dc6cdc4bcb8a</sc_cat_item>
+        <sc_catalog display_value="Standard Changes">5fb43373db8144108c46adc3ca961976</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>EGMCF</sys_created_by>
+        <sys_created_on>2023-02-13 20:30:37</sys_created_on>
+        <sys_id>0856213887c929507bd12fce8bbb350c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Standard Changes.Raise a travel request</sys_name>
+        <sys_package display_value="Travel Request" source="x_320309_travel_0">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel Request">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_0856213887c929507bd12fce8bbb350c</sys_update_name>
+        <sys_updated_by>EGMCF</sys_updated_by>
+        <sys_updated_on>2023-02-13 20:30:37</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Travel Request">af0e41f51b3021105bd0dc6cdc4bcb6f</application>
+        <file_path/>
+        <instance_id>2f96ae34db9a159007072f17d496192e</instance_id>
+        <instance_name>bayercddev</instance_name>
+        <name>sc_cat_item_catalog_0856213887c929507bd12fce8bbb350c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Raise a travel request">c39cac0e1b3c21105bd0dc6cdc4bcb8a</sc_cat_item><sc_catalog display_value="Standard Changes">5fb43373db8144108c46adc3ca961976</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>EGMCF</sys_created_by><sys_created_on>2023-02-13 20:30:37</sys_created_on><sys_id>0856213887c929507bd12fce8bbb350c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Standard Changes.Raise a travel request</sys_name><sys_package display_value="Travel Request" source="x_320309_travel_0">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_package><sys_policy/><sys_scope display_value="Travel Request">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_scope><sys_update_name>sc_cat_item_catalog_0856213887c929507bd12fce8bbb350c</sys_update_name><sys_updated_by>EGMCF</sys_updated_by><sys_updated_on>2023-02-13 20:30:37</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>912636818</payload_hash>
+        <record_name>Standard Changes.Raise a travel request</record_name>
+        <reverted_from/>
+        <source>7481693087c929507bd12fce8bbb3551</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>EGMCF</sys_created_by>
+        <sys_created_on>2023-02-13 20:30:37</sys_created_on>
+        <sys_id>c456213887c929507bd12fce8bbb350f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1864c78e6450000001</sys_recorded_at>
+        <sys_updated_by>EGMCF</sys_updated_by>
+        <sys_updated_on>2023-02-13 20:30:37</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>0c562138f9c92950679bb4be8ff1160e</update_guid>
+        <update_guid_history>0c562138f9c92950679bb4be8ff1160e:912636818</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Standard Changes.Raise a travel request">2bd6e93887c929507bd12fce8bbb35af</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>EGMCF</sys_created_by>
+        <sys_created_on>2023-02-13 20:33:02</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>0c5b1600b50c4774a3f12ee999ae2410</sys_id>
+        <sys_metadata>0856213887c929507bd12fce8bbb350c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Standard Changes.Raise a travel request</sys_name>
+        <sys_package display_value="Travel Request" source="x_320309_travel_0">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_package>
+        <sys_parent display_value="Raise a travel request">c39cac0e1b3c21105bd0dc6cdc4bcb8a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Travel Request">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_scope>
+        <sys_scope_delete display_value="">7b552e7c4a86445aaa25d7c76a3f6181</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_0856213887c929507bd12fce8bbb350c</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_0856213887c929507bd12fce8bbb350c">c456213887c929507bd12fce8bbb350f</sys_update_version>
+        <sys_updated_by>EGMCF</sys_updated_by>
+        <sys_updated_on>2023-02-13 20:33:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

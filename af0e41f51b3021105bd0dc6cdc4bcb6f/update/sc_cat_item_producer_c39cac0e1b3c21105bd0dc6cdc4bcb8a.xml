@@ -6,7 +6,7 @@
         <availability>on_desktop</availability>
         <billable>false</billable>
         <can_cancel>false</can_cancel>
-        <category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</category>
+        <category display_value="Utilities &amp; Tools">16554a301bc9d01007afddb7ab4bcbe8</category>
         <checked_out/>
         <cost>0</cost>
         <custom_cart/>
@@ -45,7 +45,7 @@
         <omit_price>false</omit_price>
         <order>0</order>
         <ordered_item_link/>
-        <owner display_value="Adheshwar S">50d62a5c1b6421105bd0dc6cdc4bcb6b</owner>
+        <owner display_value="">50d62a5c1b6421105bd0dc6cdc4bcb6b</owner>
         <picture/>
         <post_insert_script><![CDATA[/**
 * This script is executed after the record is generated. 
@@ -68,7 +68,7 @@
 * To access the variables, use `producer.var1` where var1 is the name of the variable
 * To access the Record Producer use `cat_item`
 */]]></save_script>
-        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_catalogs>002a1c264f374300a7b6a4eab110c723</sc_catalogs>
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <sc_template display_value="AES Record Producer">211f71ca73202010ae42d31ee2f6a785</sc_template>
@@ -87,16 +87,36 @@
         <sys_created_by>adheshwar.s</sys_created_by>
         <sys_created_on>2023-02-05 03:15:13</sys_created_on>
         <sys_id>c39cac0e1b3c21105bd0dc6cdc4bcb8a</sys_id>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Raise a travel request</sys_name>
         <sys_package display_value="Travel Request" source="x_320309_travel_0">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Travel Request">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_scope>
         <sys_update_name>sc_cat_item_producer_c39cac0e1b3c21105bd0dc6cdc4bcb8a</sys_update_name>
+        <sys_updated_by>EGMCF</sys_updated_by>
+        <sys_updated_on>2023-02-13 20:33:02</sys_updated_on>
         <table_name>x_320309_travel_0_travel_request</table_name>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
         <type>item</type>
+        <u_additional_service_owner_s/>
+        <u_beat_id/>
+        <u_ciid/>
+        <u_cp_code/>
+        <u_cre_asset/>
+        <u_fulfillment_days/>
+        <u_item_subtype/>
+        <u_item_type/>
+        <u_license_type/>
+        <u_mobile_device_type/>
+        <u_requires_approval/>
+        <u_requires_delivery/>
+        <u_sdc/>
+        <u_service_deletion_item/>
+        <u_service_owner/>
+        <u_sw_pkgid/>
+        <u_technical_approval/>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
         <view/>

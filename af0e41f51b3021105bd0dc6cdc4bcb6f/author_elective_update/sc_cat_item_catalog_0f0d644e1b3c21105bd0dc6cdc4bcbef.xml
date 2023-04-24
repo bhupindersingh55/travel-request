@@ -41,13 +41,14 @@
         <update_guid_history>cb0d644eb03c2110138c285924039af2:1809535561</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Service Catalog.Raise a travel request">922d284e1b3c21105bd0dc6cdc4bcb1c</sys_audit_delete>
+        <sys_audit_delete display_value="">922d284e1b3c21105bd0dc6cdc4bcb1c</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>adheshwar.s</sys_created_by>
         <sys_created_on>2023-02-05 03:17:38</sys_created_on>
         <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
         <sys_id>13268d49f8804ee8922108795a46aa40</sys_id>
         <sys_metadata>0f0d644e1b3c21105bd0dc6cdc4bcbef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Service Catalog.Raise a travel request</sys_name>
         <sys_package display_value="Travel Request" source="x_320309_travel_0">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_package>
         <sys_parent display_value="Raise a travel request">c39cac0e1b3c21105bd0dc6cdc4bcb8a</sys_parent>
@@ -56,5 +57,7 @@
         <sys_scope_delete display_value="">7b552e7c4a86445aaa25d7c76a3f6181</sys_scope_delete>
         <sys_update_name>sc_cat_item_catalog_0f0d644e1b3c21105bd0dc6cdc4bcbef</sys_update_name>
         <sys_update_version display_value="sc_cat_item_catalog_0f0d644e1b3c21105bd0dc6cdc4bcbef">470d644e1b3c21105bd0dc6cdc4bcbf3</sys_update_version>
+        <sys_updated_by>EGMCF</sys_updated_by>
+        <sys_updated_on>2023-02-13 20:09:05</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

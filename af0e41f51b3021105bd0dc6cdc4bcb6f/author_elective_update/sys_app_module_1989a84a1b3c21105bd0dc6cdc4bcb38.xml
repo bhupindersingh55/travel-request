@@ -65,13 +65,14 @@
         <update_guid_history>dd89a84a503c211009e7b936382e453a:-1114584432</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Travel 0 1675566094400">e42a248a1b3c21105bd0dc6cdc4bcb1c</sys_audit_delete>
+        <sys_audit_delete display_value="">e42a248a1b3c21105bd0dc6cdc4bcb1c</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>adheshwar.s</sys_created_by>
         <sys_created_on>2023-02-05 03:04:24</sys_created_on>
         <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
         <sys_id>0f9e473ff23540f8a076430c1f900004</sys_id>
         <sys_metadata>1989a84a1b3c21105bd0dc6cdc4bcb38</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Travel 0 1675566094400</sys_name>
         <sys_package display_value="Travel Request" source="x_320309_travel_0">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_package>
         <sys_parent/>
@@ -80,5 +81,7 @@
         <sys_scope_delete display_value="">7b552e7c4a86445aaa25d7c76a3f6181</sys_scope_delete>
         <sys_update_name>sys_app_module_1989a84a1b3c21105bd0dc6cdc4bcb38</sys_update_name>
         <sys_update_version display_value="sys_app_module_1989a84a1b3c21105bd0dc6cdc4bcb38">9589a84a1b3c21105bd0dc6cdc4bcb3b</sys_update_version>
+        <sys_updated_by>EGMCF</sys_updated_by>
+        <sys_updated_on>2023-02-13 20:09:05</sys_updated_on>
     </sys_metadata_delete>
 </record_update>

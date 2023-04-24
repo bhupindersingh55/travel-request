@@ -12,5 +12,11 @@
         <element label="Return date" max_length="40" name="return_date" type="glide_date"/>
         <element label="Travel from" max_length="32" name="travel_from" reference="x_320309_travel_0_airport" type="reference"/>
         <element label="Travel to" max_length="32" name="travel_to" reference="x_320309_travel_0_airport" type="reference"/>
+        <index name="index">
+            <element name="travel_from"/>
+        </index>
+        <index name="index2">
+            <element name="travel_to"/>
+        </index>
     </element>
 </database>

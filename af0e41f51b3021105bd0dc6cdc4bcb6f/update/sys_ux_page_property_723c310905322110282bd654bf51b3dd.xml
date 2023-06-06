@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>listConfigId</name>
+        <page display_value="Travel Request">fa3c3109cb322110be24d3e0cfb1f7da</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-12 16:34:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>723c310905322110282bd654bf51b3dd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="Travel Request" source="x_320309_travel_0">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel Request">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_scope>
+        <sys_update_name>sys_ux_page_property_723c310905322110282bd654bf51b3dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-12 16:34:48</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_320309_travel_0.fa3c3109cb322110be24d3e0cfb1f7da.root.listConfigId</unique_name>
+        <value>233c7109973221109b1bf8b3f153afc4</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=723c310905322110282bd654bf51b3dd"/>
+</record_update>

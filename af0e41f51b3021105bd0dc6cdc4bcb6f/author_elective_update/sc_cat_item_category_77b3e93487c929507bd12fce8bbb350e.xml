@@ -41,7 +41,7 @@
         <update_guid_history>b3b3e9343bc92950b5094783ce4ec512:-1805518160</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Services.Raise a travel request">d124657487c929507bd12fce8bbb3588</sys_audit_delete>
+        <sys_audit_delete display_value="">d124657487c929507bd12fce8bbb3588</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>EGMCF</sys_created_by>
         <sys_created_on>2023-02-13 20:21:08</sys_created_on>

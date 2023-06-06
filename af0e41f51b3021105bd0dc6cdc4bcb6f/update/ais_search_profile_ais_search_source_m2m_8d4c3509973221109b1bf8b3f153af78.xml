@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="Travel Request search profile">7e3c3109fb322110135d2e1df29000e0</profile>
+        <search_source display_value="Travel request">814c3509973221109b1bf8b3f153af77</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-12 16:34:53</sys_created_on>
+        <sys_id>8d4c3509973221109b1bf8b3f153af78</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Travel Request search profile.Travel request</sys_name>
+        <sys_package display_value="Travel Request" source="x_320309_travel_0">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Travel Request">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_8d4c3509973221109b1bf8b3f153af78</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-12 16:34:53</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

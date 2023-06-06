@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
     <sc_cat_item_catalog action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Raise a travel request">c39cac0e1b3c21105bd0dc6cdc4bcb8a</sc_cat_item>
-        <sc_catalog display_value="Bayer">002a1c264f374300a7b6a4eab110c723</sc_catalog>
+        <sc_catalog display_value="">002a1c264f374300a7b6a4eab110c723</sc_catalog>
         <sys_class_name>sc_cat_item_catalog</sys_class_name>
         <sys_created_by>EGMCF</sys_created_by>
         <sys_created_on>2023-02-13 20:30:37</sys_created_on>

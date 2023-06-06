@@ -29,15 +29,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>11e6454a1bbc21105bd0dc6cdc4bcb20</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Update airport information</sys_name>
         <sys_overrides/>
         <sys_package display_value="Travel Request" source="x_320309_travel_0">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Travel Request">af0e41f51b3021105bd0dc6cdc4bcb6f</sys_scope>
         <sys_update_name>sys_hub_flow_11e6454a1bbc21105bd0dc6cdc4bcb20</sys_update_name>
-        <sys_updated_by>EGMCF</sys_updated_by>
-        <sys_updated_on>2023-02-13 20:11:40</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-12 16:34:03</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=11e6454a1bbc21105bd0dc6cdc4bcb20"/>
@@ -96,16 +96,6 @@
         <sys_updated_on>2023-02-13 20:11:40</sys_updated_on>
         <time_zone/>
         <trigger display_value="">8a59cd4e1bbc21105bd0dc6cdc4bcbe2</trigger>
-        <u_advanced>false</u_advanced>
-        <u_conditions/>
-        <u_event_name/>
-        <u_event_parm_1/>
-        <u_event_parm_2/>
-        <u_run_business_rules>false</u_run_business_rules>
-        <u_save_script/>
-        <u_set_field_values/>
-        <u_table/>
-        <u_trigger_event>false</u_trigger_event>
         <upgrade_safe>true</upgrade_safe>
     </sys_flow_trigger_auto_script>
     <sys_trigger_runner_mapping action="delete_multiple" query="identifier=11e6454a1bbc21105bd0dc6cdc4bcb20"/>

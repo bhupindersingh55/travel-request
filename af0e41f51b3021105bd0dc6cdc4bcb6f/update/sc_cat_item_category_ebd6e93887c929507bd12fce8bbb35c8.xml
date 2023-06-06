@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="Raise a travel request">c39cac0e1b3c21105bd0dc6cdc4bcb8a</sc_cat_item>
-        <sc_category display_value="Utilities &amp; Tools">16554a301bc9d01007afddb7ab4bcbe8</sc_category>
+        <sc_category display_value="">16554a301bc9d01007afddb7ab4bcbe8</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>EGMCF</sys_created_by>
         <sys_created_on>2023-02-13 20:33:03</sys_created_on>
